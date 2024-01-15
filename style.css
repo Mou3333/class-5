@@ -1,0 +1,29 @@
+.sub{
+    width:252px;
+    height: 388px;
+    background-color:#ffffff;
+}
+.main .image{
+    text-align:center
+}
+.main .save{
+    width:70px;
+    height:25px;
+    display:inline-block;
+    background-color: #6E2594;
+    color:#fff;
+    border-radius: 0 15px 15px 0; 
+    
+
+}
+.main .point{
+    width:120px;
+    height:35px;
+    display:inline-block;
+    background-color: #6E2594;
+    color:#fff;
+    border-radius: 0 15px 15px 0; 
+  
+    
+
+}
